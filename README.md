@@ -17,5 +17,4 @@ For data assets, scriptable objects are used to create team configs and match co
 
 ## Video
 
-https://github.com/HamzaMunir/BotsCombatSimulation-Unity-ECS/assets/15054127/aee484bb-8d48-4192-8877-02a00cc1b6fb
-
+![BattleSimulationGif](https://github.com/HamzaMunir/BotsCombatSimulation-Unity-ECS/assets/15054127/f463d62c-c123-4314-b0b9-b4be0ed3c890)
