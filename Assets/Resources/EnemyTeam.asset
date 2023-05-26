@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 227435036576d7f41863947c6afb9e07, type: 3}
+  m_Name: EnemyTeam
+  m_EditorClassIdentifier: 
+  Rows: 3
+  Columns: 3
+  Units:
+  - AttackRange: 2
+    HealthPoints: 50
+    AttackDamage: 10
+    AttackSpeed: 8
+    MovementSpeed: 4
+  - AttackRange: 5
+    HealthPoints: 80
+    AttackDamage: 60
+    AttackSpeed: 6
+    MovementSpeed: 2
+  - AttackRange: 2
+    HealthPoints: 100
+    AttackDamage: 70
+    AttackSpeed: 10
+    MovementSpeed: 6
+  - AttackRange: 4
+    HealthPoints: 200
+    AttackDamage: 80
+    AttackSpeed: 4
+    MovementSpeed: 3
+  - AttackRange: 10
+    HealthPoints: 50
+    AttackDamage: 20
+    AttackSpeed: 4
+    MovementSpeed: 2
+  - AttackRange: 40
+    HealthPoints: 50
+    AttackDamage: 10
+    AttackSpeed: 4
+    MovementSpeed: 2
+  - AttackRange: 20
+    HealthPoints: 20
+    AttackDamage: 4
+    AttackSpeed: 5
+    MovementSpeed: 20
+  - AttackRange: 15
+    HealthPoints: 20
+    AttackDamage: 5
+    AttackSpeed: 4
+    MovementSpeed: 4
+  - AttackRange: 20
+    HealthPoints: 50
+    AttackDamage: 2
+    AttackSpeed: 5
+    MovementSpeed: 20

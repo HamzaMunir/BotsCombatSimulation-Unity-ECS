@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 033e64a7e824471fab55eb5a4f1cc0de, type: 3}
+  m_Name: MatchConfig
+  m_EditorClassIdentifier: 
+  FriendlyTeamConfig:
+  - {fileID: 11400000, guid: 84150e098347f294a8477ec964182d12, type: 2}
+  - {fileID: 11400000, guid: 95b91e6e0e011864d9002b1682e1f4ac, type: 2}
+  EnemyTeamConfigs:
+  - {fileID: 11400000, guid: 4b1abaf679aa8044997913100416ee96, type: 2}
+  - {fileID: 11400000, guid: e6202b35cecefef4fa128301d970450e, type: 2}
